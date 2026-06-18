@@ -1,0 +1,71 @@
+body {
+    background-image: url(../img/132.gif);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    background-color: rgb(195, 195, 200);
+}
+
+header {
+  padding: 60px 20px;
+  text-align: center;
+  background-color: #222;
+  color: white;
+}
+
+.block {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  padding: 50px;
+  background-color: white;
+  margin: 30px auto;
+  max-width: 900px;
+}
+
+.list {
+  flex: 1;
+  position: relative;
+}
+
+.imgbox {
+  flex: 1;
+  text-align: center;
+}
+
+.block.even {
+  flex-direction: row-reverse;
+}
+
+.imgbox img {
+  max-width: 100%;
+  height: 200px;
+  border-radius: 8px;
+}
+
+.game {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.movename {
+    text-decoration: underline;
+    color: red;
+}
+
+.videobox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px auto;
+}
+
+.videobox iframe {
+  width: 80%;
+  max-width: 800px;
+  height: 450px;
+  border: none;
+  margin-top: 20px;
+}
