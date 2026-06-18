@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Territory Strategy Prototype</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Territory Strategy Prototype</h1>
+
+<div id="controls">
+  <label for="scenarioSelect">Data Set:</label>
+
+  <select id="scenarioSelect">
+    <option value="default">Default</option>
+  </select>
+
+  <button onclick="Game.init()">Initialize Game</button>
+</div>
+
+<div id="gameStatus" class="status">
+  Initialize the game, then click a territory to choose your faction. If the map does not initialize or commanders are not granted upon choosing a faction, initialize the game again.
+</div>
+
+<div id="turnPanel" class="panel hidden">
+  <h2>Turn</h2>
+  <p>The game has not started.</p>
+</div>
+
+<div id="defensePanel" class="panel hidden">
+  <h2>Defense Required</h2>
+  <p>No battle pending.</p>
+</div>
+
+<canvas id="map" width="900" height="600"></canvas>
+
+<div id="territoryPanel" class="panel">
+  <h2>Territory Info</h2>
+  <p>Click a territory on the map.</p>
+</div>
+
+<div id="playerPanel" class="panel hidden">
+  <h2>Player Faction</h2>
+  <p>Choose a faction to begin.</p>
+</div>
+
+<pre id="log"></pre>
+
+<script src="csvLoader.js"></script>
+<script src="nameLoader.js"></script>
+<script src="scenarioLoader.js"></script>
+<script src="commanders.js"></script>
+<script src="factions.js"></script>
+<script src="map.js"></script>
+<script src="game.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+id,name,leadfirst,leadlast,cost,attack,defense,speed,maxtroop
+0,Oda Clan,Nobunaga,Oda,5,8,7,9,1000
+1,Tokugawa Clan,Ieyasu,Tokugawa,5,8,8,9,1000
+2,Takeda Clan,Shingen,Takeda,5,6,9,9,1000
+3,Uesugi Clan,Kenshin,Uesugi,5,8,6,7,1000
+4,Mori Clan,Motonari,Mori,5,6,9,9,1000
+5,Hojo Clan,Ujiyasu,Hojo,4,8,7,7,1000
+6,Shimazu Clan,Yoshihisa,Shimazu,4,7,6,8,1000
+7,Date Clan,Masamune,Date,4,5,7,5,1000
+8,Chosokabe Clan,Motochika,Chosokabe,4,8,7,7,1000
+9,Azai Clan,Nagamasa,Azai,4,8,7,6,1000
+10,Asakura Clan,Yoshikage,Asakura,3,5,5,7,1000
+11,Imagawa Clan,Yoshimoto,Imagawa,3,7,6,5,1000
+12,Sanada Clan,Yukimura,Sanada,4,6,7,6,1000
+13,Otomo Clan,Sorin,Otomo,3,4,5,7,1000
+14,Ryuzoji Clan,Takanobu,Ryuzoji,3,6,7,4,1000
+15,Ukita Clan,Hideie,Ukita,3,5,7,7,1000
+16,Kuroda Clan,Yoshitaka,Kuroda,3,6,5,6,1000
+17,Kobayakawa Clan,Hideaki,Kobayakawa,2,6,6,5,1000
+18,Hosokawa Clan,Tadaoki,Hosokawa,3,4,7,4,1000
+19,Satake Clan,Yoshishige,Satake,2,6,6,6,1000
+20,Saito Clan,Dosan,Saito,3,6,7,5,1000
+21,Rokkaku Clan,Yoshikata,Rokkaku,2,3,3,4,1000
+22,Amago Clan,Haruhisa,Amago,2,6,3,4,1000
+23,Ashikaga Shogunate,Yoshiaki,Ashikaga,2,5,5,3,1000
+24,Western Army,Mitsunari,Ishida,4,5,6,7,1000

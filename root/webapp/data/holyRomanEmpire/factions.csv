@@ -1,0 +1,26 @@
+id,name,leadfirst,leadlast,cost,attack,defense,speed,maxtroop
+0,Ottonian Empire,Otto,Liudolfing,5,7,8,6,1000
+1,Salian Empire,Henry,Salian,5,7,7,6,1000
+2,Hohenstaufen Empire,Frederick,Barbarossa,5,8,7,7,1000
+3,House of Luxembourg,Charles,Luxembourg,5,6,8,6,1000
+4,House of Habsburg,Maximilian,Habsburg,5,7,7,7,1000
+5,House of Wittelsbach,Louis,Wittelsbach,4,6,6,6,1000
+6,House of Welf,Lothair,Supplinburg,4,6,7,5,1000
+7,House of Nassau,Adolph,Nassau,3,5,5,5,1000
+8,House of Hohenzollern,Albert,Hohenzollern,4,6,6,5,1000
+9,House of Wettin,Ernest,Wettin,3,5,6,4,1000
+10,House of Ascania,Albrecht,Ascania,3,5,5,6,1000
+11,House of Zahringen,Berthold,Zahringen,3,5,6,5,1000
+12,House of Savoy,Amadeus,Savoy,3,5,5,5,1000
+13,House of Este,Azzo,Este,2,4,5,4,1000
+14,House of Gonzaga,Ludovico,Gonzaga,2,4,5,4,1000
+15,House of Visconti,Gian,Visconti,4,6,5,6,1000
+16,House of Sforza,Francesco,Sforza,4,7,5,6,1000
+17,House of Medici,Cosimo,Medici,3,4,6,5,1000
+18,Premyslid Bohemia,Ottokar,Premyslid,4,7,6,5,1000
+19,Jagiellonian Bohemia,Vladislaus,Jagiellon,3,5,6,4,1000
+20,House of Oldenburg,Christian,Oldenburg,3,5,5,4,1000
+21,House of Holstein,Adolf,Holstein,2,4,4,5,1000
+22,Archbishopric of Mainz,Willigis,Mainz,3,3,7,4,1000
+23,Archbishopric of Cologne,Rainald,Dassel,3,4,6,5,1000
+24,Duchy of Saxony,Maurice,Saxony,4,6,6,6,1000

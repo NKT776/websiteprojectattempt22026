@@ -1,0 +1,192 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: #eee;
+  text-align: center;
+}
+
+canvas {
+  background: #1c1c1c;
+  border: 1px solid #444;
+  margin-top: 10px;
+}
+
+#log {
+  text-align: left;
+  max-height: 200px;
+  overflow: auto;
+  background: #000;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.panel {
+  width: 860px;
+  margin: 15px auto;
+  padding: 15px;
+  background: #181818;
+  border: 1px solid #444;
+  border-radius: 6px;
+  text-align: left;
+}
+
+.panel h2 {
+  margin-top: 0;
+  color: #fff;
+}
+
+.panel p {
+  margin: 6px 0;
+}
+
+.stat-grid {
+  display: grid;
+  grid-template-columns: 160px 1fr;
+  gap: 6px;
+}
+
+.stat-label {
+  color: #aaa;
+}
+
+.status {
+  width: 860px;
+  margin: 10px auto;
+  padding: 10px;
+  background: #202020;
+  border: 1px solid #555;
+  border-radius: 6px;
+  text-align: left;
+  color: #ddd;
+}
+
+.choice-button {
+  margin-top: 12px;
+  padding: 8px 14px;
+  background: #2f6fed;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.choice-button:hover {
+  background: #4f86ff;
+}
+
+.hidden {
+  display: none;
+}
+
+.commander-list {
+  display: grid;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.commander-card {
+  background: #101010;
+  border: 1px solid #333;
+  border-radius: 6px;
+  padding: 10px;
+}
+
+.commander-card h3 {
+  margin: 0 0 8px 0;
+}
+
+.commander-status-active {
+  color: #7CFF7C;
+  font-weight: bold;
+}
+
+.commander-status-tired {
+  color: #FFB347;
+  font-weight: bold;
+}
+
+.small-note {
+  color: #aaa;
+  font-size: 0.9em;
+}
+
+.action-section {
+  margin-top: 16px;
+  padding: 12px;
+  background: #111;
+  border: 1px solid #333;
+  border-radius: 6px;
+}
+
+.action-section h3 {
+  margin-top: 0;
+}
+
+select,
+input[type="number"] {
+  background: #222;
+  color: #eee;
+  border: 1px solid #555;
+  padding: 6px;
+  border-radius: 4px;
+}
+
+.action-button {
+  margin-top: 8px;
+  padding: 8px 14px;
+  background: #2f6fed;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.action-button:disabled {
+  background: #555;
+  cursor: not-allowed;
+}
+
+.warning-text {
+  color: #ffb347;
+}
+
+.danger-text {
+  color: #ff7777;
+}
+
+.success-text {
+  color: #7cff7c;
+}
+
+.defense-warning {
+  color: #ff7777;
+  font-weight: bold;
+}
+
+.battle-log {
+  max-height: 260px;
+  overflow-y: auto;
+  background: #050505;
+  border: 1px solid #333;
+  padding: 8px;
+  margin-top: 10px;
+  font-size: 0.9em;
+}
+
+.restore-control {
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px solid #333;
+}
+
+.restore-slider {
+  width: 100%;
+  margin-top: 6px;
+}
+
+.restore-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 8px;
+  align-items: center;
+}

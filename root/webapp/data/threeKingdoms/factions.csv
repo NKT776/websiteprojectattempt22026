@@ -1,0 +1,26 @@
+id,name,leadfirst,leadlast,cost,attack,defense,speed,maxtroop
+0,Cao Wei,Cao,Cao,5,7,7,6,1000
+1,Shu Han,Bei,Liu,5,6,7,6,1000
+2,Eastern Wu,Quan,Sun,5,6,7,6,1000
+3,Yuan Shao Force,Shao,Yuan,4,6,5,5,1000
+4,Yuan Shu Force,Shu,Yuan,3,5,4,4,1000
+5,Dong Zhuo Regime,Zhuo,Dong,4,7,4,4,1000
+6,Lu Bu Force,Bu,Lu,5,9,3,8,1000
+7,Jing Province,Biao,Liu,3,3,6,3,1000
+8,Yi Province,Zhang,Liu,3,3,6,3,1000
+9,Ma Teng Force,Teng,Ma,4,7,5,7,1000
+10,Han Sui Force,Sui,Han,3,5,5,5,1000
+11,Gongsun Zan Force,Zan,Gongsun,4,7,5,7,1000
+12,Liaodong Commandery,Du,Gongsun,3,4,6,4,1000
+13,Hanzhong Theocracy,Lu,Zhang,3,3,6,4,1000
+14,Yellow Turbans,Jue,Zhang,3,6,3,5,1000
+15,Nanman Tribes,Huo,Meng,3,7,3,5,1000
+16,Jiaozhi Commandery,Xie,Shi,3,3,6,3,1000
+17,Xu Province,Qian,Tao,2,3,5,3,1000
+18,Beihai Commandery,Rong,Kong,2,3,4,3,1000
+19,Kuaiji Commandery,Lang,Wang,2,3,4,3,1000
+20,Yang Province,Yao,Liu,2,4,4,4,1000
+21,Shanyue Tribes,Baihu,Yan,2,5,3,5,1000
+22,Han Imperial Court,Xie,Liu,1,1,3,2,1000
+23,Sima Clan,Yi,Sima,5,6,8,5,1000
+24,Western Jin,Yan,Sima,4,5,7,5,1000

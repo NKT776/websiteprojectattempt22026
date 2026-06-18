@@ -1,0 +1,18 @@
+[
+  {
+    "id": "default",
+    "name": "Default"
+  },
+  {
+    "id": "threeKingdoms",
+    "name": "Three Kingdoms"
+  },
+  {
+    "id": "holyRomanEmpire",
+    "name": "Holy Roman Empire"
+  },
+  {
+    "id": "sengoku",
+    "name": "Sengoku"
+  }
+]

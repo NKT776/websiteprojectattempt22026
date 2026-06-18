@@ -1,0 +1,31 @@
+id,name,leadfirst,leadlast,cost,attack,defense,speed,maxtroop
+0,Moonguard,Frodric,Ninefingers,1,4,4,5,1000
+1,Gondovar,Aragornel,Crownstrider,4,8,7,6,1000
+2,Mordrake,Saurvon,Eyecinder,5,9,8,6,1000
+3,Freerider Freehold,Jimmar,Rebelray,3,7,5,7,1000
+4,Ancient Choir,Tassor,Lightmind,4,7,8,6,1000
+5,Strongarm Banner,Chromar,Falconcrest,3,7,6,6,1000
+6,Brash Empire,Edelgardea,Redeagle,4,8,7,5,1000
+7,Letemall Kingdom,Mars,Lowell,3,6,5,8,1000
+8,Farlands Alliance,Roronae,Sweetflask,2,5,5,6,1000
+9,Dusk Guilds,Ryzel,Kegspark,2,6,4,6,1000
+10,Camelot Alley,Arturius,Pendrake,4,7,8,5,1000
+11,Sherwood Knots,Robyn,Greenjape,2,6,4,8,1000
+12,Azure Gears,Ragnald,Edgebluff,4,8,6,6,1000
+13,Moonlit Nightwalk,Shikiva,Nanayarn,3,7,5,8,1000
+14,Barbarian Kingdom,Rasard,Chaoswink,3,7,4,6,1000
+15,Artemis Republic,Edwynn,Tinboot,3,7,6,5,1000
+16,Four Nations Circus,Kataru,Windscar,3,6,6,8,1000
+17,Distant Teahouse,Reimira,Charmseal,3,6,5,8,1000
+18,Elvish Realm,Linkton,Potbreaker,3,7,6,7,1000
+19,Middleland Bards,Fingolfr,Doomharp,4,8,6,7,1000
+20,Central Confederation,Mengskar,Broadcast,4,7,7,5,1000
+21,Teain Host,Ikarus,Greilgrin,3,7,6,6,1000
+22,Dellius Empire,Michaya,Silverlamp,3,6,5,7,1000
+23,Mysterian Cities,Marthis,Tiaraquest,3,6,6,6,1000
+24,Saltburough Alliance,Marieka,Alembic,2,5,5,6,1000
+25,Avalon Errands,Merlino,Beardspell,4,6,8,5,1000
+26,United Kingdoms,Johnathan,Goodguy,4,8,6,7,1000
+27,Librarium,Noella,Azurebell,3,6,6,8,1000
+28,Central Chimera,Mustav,Flameglove,3,7,6,5,1000
+29,Spirit Oasis,Irohku,Teadragon,4,6,8,6,1000
